@@ -1,0 +1,24 @@
+pluginManagement {
+    repositories {
+        maven {
+            name = 'MinecraftForge'
+            url = uri('https://maven.minecraftforge.net/')
+            content {
+                includeGroupByRegex 'net[.]minecraftforge([.].*)?'
+            }
+        }
+        gradlePluginPortal()
+        mavenCentral()
+    }
+    resolutionStrategy {
+        eachPlugin {
+            if (requested.id.id == 'net.minecraftforge.gradle') {
+                // Coordinates confirmed by the official 7.0.17 plugin marker POM.
+                useModule('net.minecraftforge:forgegradle:7.0.17')
+            }
+        }
+    }
+}
+
+// JDK 25 must already be installed locally.
+rootProject.name = 'legendary-frontiers'

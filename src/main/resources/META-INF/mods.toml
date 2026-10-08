@@ -1,0 +1,21 @@
+modLoader="javafml"
+loaderVersion="[66,)"
+license="MIT"
+[[mods]]
+modId="legendary_frontiers"
+version="0.1.0"
+displayName="Legendary Frontiers — Prototype"
+authors="Created for the requesting user"
+description="Early source prototype: four ability swords, one basic bow, and three manually placed structure templates. Not the full requested content expansion."
+[[dependencies.legendary_frontiers]]
+modId="forge"
+mandatory=true
+versionRange="[66.0.9,67)"
+ordering="NONE"
+side="BOTH"
+[[dependencies.legendary_frontiers]]
+modId="minecraft"
+mandatory=true
+versionRange="[26.3,26.4)"
+ordering="NONE"
+side="BOTH"

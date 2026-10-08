@@ -1,0 +1,27 @@
+JSON OK: design/content-status.json
+JSON OK: design/structures/ember_sanctuary.json
+JSON OK: design/structures/forgotten_archive.json
+JSON OK: design/structures/wayfarer_watchtower.json
+JSON OK: src/main/resources/data/legendary_frontiers/recipe/ember_oath.json
+JSON OK: src/main/resources/data/legendary_frontiers/recipe/winter_verdict.json
+JSON OK: src/main/resources/data/legendary_frontiers/recipe/sky_splitter.json
+JSON OK: src/main/resources/data/legendary_frontiers/recipe/rootbound_mercy.json
+JSON OK: src/main/resources/data/legendary_frontiers/recipe/ranger_bow.json
+JSON OK: src/main/resources/assets/legendary_frontiers/items/ember_oath.json
+JSON OK: src/main/resources/assets/legendary_frontiers/items/winter_verdict.json
+JSON OK: src/main/resources/assets/legendary_frontiers/items/sky_splitter.json
+JSON OK: src/main/resources/assets/legendary_frontiers/items/rootbound_mercy.json
+JSON OK: src/main/resources/assets/legendary_frontiers/items/ranger_bow.json
+JSON OK: src/main/resources/assets/legendary_frontiers/lang/ru_ru.json
+JSON OK: src/main/resources/assets/legendary_frontiers/lang/en_us.json
+JSON OK: src/main/resources/assets/legendary_frontiers/models/item/ember_oath.json
+JSON OK: src/main/resources/assets/legendary_frontiers/models/item/winter_verdict.json
+JSON OK: src/main/resources/assets/legendary_frontiers/models/item/sky_splitter.json
+JSON OK: src/main/resources/assets/legendary_frontiers/models/item/rootbound_mercy.json
+JSON OK: src/main/resources/assets/legendary_frontiers/models/item/ranger_bow.json
+TOML OK: src/main/resources/META-INF/mods.toml
+NBT OK: ember_sanctuary.nbt (172 blocks)
+NBT OK: forgotten_archive.nbt (374 blocks)
+NBT OK: wayfarer_watchtower.nbt (320 blocks)
+
+These are file-format checks only. Java compilation and game behavior have NOT been validated.

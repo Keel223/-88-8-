@@ -1,0 +1,2569 @@
+{
+  "size": [
+    9,
+    14,
+    9
+  ],
+  "blocks": [
+    {
+      "pos": [
+        0,
+        0,
+        0
+      ],
+      "block": "minecraft:mossy_cobblestone"
+    },
+    {
+      "pos": [
+        0,
+        0,
+        1
+      ],
+      "block": "minecraft:mossy_cobblestone"
+    },
+    {
+      "pos": [
+        0,
+        0,
+        2
+      ],
+      "block": "minecraft:mossy_cobblestone"
+    },
+    {
+      "pos": [
+        0,
+        0,
+        3
+      ],
+      "block": "minecraft:mossy_cobblestone"
+    },
+    {
+      "pos": [
+        0,
+        0,
+        4
+      ],
+      "block": "minecraft:mossy_cobblestone"
+    },
+    {
+      "pos": [
+        0,
+        0,
+        5
+      ],
+      "block": "minecraft:mossy_cobblestone"
+    },
+    {
+      "pos": [
+        0,
+        0,
+        6
+      ],
+      "block": "minecraft:mossy_cobblestone"
+    },
+    {
+      "pos": [
+        0,
+        0,
+        7
+      ],
+      "block": "minecraft:mossy_cobblestone"
+    },
+    {
+      "pos": [
+        0,
+        0,
+        8
+      ],
+      "block": "minecraft:mossy_cobblestone"
+    },
+    {
+      "pos": [
+        1,
+        0,
+        0
+      ],
+      "block": "minecraft:mossy_cobblestone"
+    },
+    {
+      "pos": [
+        1,
+        0,
+        1
+      ],
+      "block": "minecraft:mossy_cobblestone"
+    },
+    {
+      "pos": [
+        1,
+        0,
+        2
+      ],
+      "block": "minecraft:mossy_cobblestone"
+    },
+    {
+      "pos": [
+        1,
+        0,
+        3
+      ],
+      "block": "minecraft:mossy_cobblestone"
+    },
+    {
+      "pos": [
+        1,
+        0,
+        4
+      ],
+      "block": "minecraft:mossy_cobblestone"
+    },
+    {
+      "pos": [
+        1,
+        0,
+        5
+      ],
+      "block": "minecraft:mossy_cobblestone"
+    },
+    {
+      "pos": [
+        1,
+        0,
+        6
+      ],
+      "block": "minecraft:mossy_cobblestone"
+    },
+    {
+      "pos": [
+        1,
+        0,
+        7
+      ],
+      "block": "minecraft:mossy_cobblestone"
+    },
+    {
+      "pos": [
+        1,
+        0,
+        8
+      ],
+      "block": "minecraft:mossy_cobblestone"
+    },
+    {
+      "pos": [
+        1,
+        12,
+        1
+      ],
+      "block": "minecraft:stone_bricks"
+    },
+    {
+      "pos": [
+        1,
+        12,
+        2
+      ],
+      "block": "minecraft:stone_bricks"
+    },
+    {
+      "pos": [
+        1,
+        12,
+        3
+      ],
+      "block": "minecraft:stone_bricks"
+    },
+    {
+      "pos": [
+        1,
+        12,
+        4
+      ],
+      "block": "minecraft:stone_bricks"
+    },
+    {
+      "pos": [
+        1,
+        12,
+        5
+      ],
+      "block": "minecraft:stone_bricks"
+    },
+    {
+      "pos": [
+        1,
+        12,
+        6
+      ],
+      "block": "minecraft:stone_bricks"
+    },
+    {
+      "pos": [
+        1,
+        12,
+        7
+      ],
+      "block": "minecraft:stone_bricks"
+    },
+    {
+      "pos": [
+        1,
+        13,
+        1
+      ],
+      "block": "minecraft:glowstone"
+    },
+    {
+      "pos": [
+        1,
+        13,
+        7
+      ],
+      "block": "minecraft:glowstone"
+    },
+    {
+      "pos": [
+        2,
+        0,
+        0
+      ],
+      "block": "minecraft:mossy_cobblestone"
+    },
+    {
+      "pos": [
+        2,
+        0,
+        1
+      ],
+      "block": "minecraft:mossy_cobblestone"
+    },
+    {
+      "pos": [
+        2,
+        0,
+        2
+      ],
+      "block": "minecraft:mossy_cobblestone"
+    },
+    {
+      "pos": [
+        2,
+        0,
+        3
+      ],
+      "block": "minecraft:mossy_cobblestone"
+    },
+    {
+      "pos": [
+        2,
+        0,
+        4
+      ],
+      "block": "minecraft:mossy_cobblestone"
+    },
+    {
+      "pos": [
+        2,
+        0,
+        5
+      ],
+      "block": "minecraft:mossy_cobblestone"
+    },
+    {
+      "pos": [
+        2,
+        0,
+        6
+      ],
+      "block": "minecraft:mossy_cobblestone"
+    },
+    {
+      "pos": [
+        2,
+        0,
+        7
+      ],
+      "block": "minecraft:mossy_cobblestone"
+    },
+    {
+      "pos": [
+        2,
+        0,
+        8
+      ],
+      "block": "minecraft:mossy_cobblestone"
+    },
+    {
+      "pos": [
+        2,
+        1,
+        2
+      ],
+      "block": "minecraft:stone_bricks"
+    },
+    {
+      "pos": [
+        2,
+        1,
+        3
+      ],
+      "block": "minecraft:stone_bricks"
+    },
+    {
+      "pos": [
+        2,
+        1,
+        4
+      ],
+      "block": "minecraft:stone_bricks"
+    },
+    {
+      "pos": [
+        2,
+        1,
+        5
+      ],
+      "block": "minecraft:stone_bricks"
+    },
+    {
+      "pos": [
+        2,
+        1,
+        6
+      ],
+      "block": "minecraft:stone_bricks"
+    },
+    {
+      "pos": [
+        2,
+        2,
+        2
+      ],
+      "block": "minecraft:stone_bricks"
+    },
+    {
+      "pos": [
+        2,
+        2,
+        3
+      ],
+      "block": "minecraft:stone_bricks"
+    },
+    {
+      "pos": [
+        2,
+        2,
+        4
+      ],
+      "block": "minecraft:stone_bricks"
+    },
+    {
+      "pos": [
+        2,
+        2,
+        5
+      ],
+      "block": "minecraft:stone_bricks"
+    },
+    {
+      "pos": [
+        2,
+        2,
+        6
+      ],
+      "block": "minecraft:stone_bricks"
+    },
+    {
+      "pos": [
+        2,
+        3,
+        2
+      ],
+      "block": "minecraft:stone_bricks"
+    },
+    {
+      "pos": [
+        2,
+        3,
+        3
+      ],
+      "block": "minecraft:stone_bricks"
+    },
+    {
+      "pos": [
+        2,
+        3,
+        4
+      ],
+      "block": "minecraft:stone_bricks"
+    },
+    {
+      "pos": [
+        2,
+        3,
+        5
+      ],
+      "block": "minecraft:stone_bricks"
+    },
+    {
+      "pos": [
+        2,
+        3,
+        6
+      ],
+      "block": "minecraft:stone_bricks"
+    },
+    {
+      "pos": [
+        2,
+        4,
+        2
+      ],
+      "block": "minecraft:stone_bricks"
+    },
+    {
+      "pos": [
+        2,
+        4,
+        3
+      ],
+      "block": "minecraft:stone_bricks"
+    },
+    {
+      "pos": [
+        2,
+        4,
+        4
+      ],
+      "block": "minecraft:stone_bricks"
+    },
+    {
+      "pos": [
+        2,
+        4,
+        5
+      ],
+      "block": "minecraft:stone_bricks"
+    },
+    {
+      "pos": [
+        2,
+        4,
+        6
+      ],
+      "block": "minecraft:stone_bricks"
+    },
+    {
+      "pos": [
+        2,
+        5,
+        2
+      ],
+      "block": "minecraft:stone_bricks"
+    },
+    {
+      "pos": [
+        2,
+        5,
+        3
+      ],
+      "block": "minecraft:stone_bricks"
+    },
+    {
+      "pos": [
+        2,
+        5,
+        4
+      ],
+      "block": "minecraft:stone_bricks"
+    },
+    {
+      "pos": [
+        2,
+        5,
+        5
+      ],
+      "block": "minecraft:stone_bricks"
+    },
+    {
+      "pos": [
+        2,
+        5,
+        6
+      ],
+      "block": "minecraft:stone_bricks"
+    },
+    {
+      "pos": [
+        2,
+        6,
+        2
+      ],
+      "block": "minecraft:stone_bricks"
+    },
+    {
+      "pos": [
+        2,
+        6,
+        3
+      ],
+      "block": "minecraft:stone_bricks"
+    },
+    {
+      "pos": [
+        2,
+        6,
+        4
+      ],
+      "block": "minecraft:stone_bricks"
+    },
+    {
+      "pos": [
+        2,
+        6,
+        5
+      ],
+      "block": "minecraft:stone_bricks"
+    },
+    {
+      "pos": [
+        2,
+        6,
+        6
+      ],
+      "block": "minecraft:stone_bricks"
+    },
+    {
+      "pos": [
+        2,
+        7,
+        2
+      ],
+      "block": "minecraft:stone_bricks"
+    },
+    {
+      "pos": [
+        2,
+        7,
+        3
+      ],
+      "block": "minecraft:stone_bricks"
+    },
+    {
+      "pos": [
+        2,
+        7,
+        4
+      ],
+      "block": "minecraft:stone_bricks"
+    },
+    {
+      "pos": [
+        2,
+        7,
+        5
+      ],
+      "block": "minecraft:stone_bricks"
+    },
+    {
+      "pos": [
+        2,
+        7,
+        6
+      ],
+      "block": "minecraft:stone_bricks"
+    },
+    {
+      "pos": [
+        2,
+        8,
+        2
+      ],
+      "block": "minecraft:stone_bricks"
+    },
+    {
+      "pos": [
+        2,
+        8,
+        3
+      ],
+      "block": "minecraft:stone_bricks"
+    },
+    {
+      "pos": [
+        2,
+        8,
+        4
+      ],
+      "block": "minecraft:stone_bricks"
+    },
+    {
+      "pos": [
+        2,
+        8,
+        5
+      ],
+      "block": "minecraft:stone_bricks"
+    },
+    {
+      "pos": [
+        2,
+        8,
+        6
+      ],
+      "block": "minecraft:stone_bricks"
+    },
+    {
+      "pos": [
+        2,
+        9,
+        2
+      ],
+      "block": "minecraft:stone_bricks"
+    },
+    {
+      "pos": [
+        2,
+        9,
+        3
+      ],
+      "block": "minecraft:stone_bricks"
+    },
+    {
+      "pos": [
+        2,
+        9,
+        4
+      ],
+      "block": "minecraft:stone_bricks"
+    },
+    {
+      "pos": [
+        2,
+        9,
+        5
+      ],
+      "block": "minecraft:stone_bricks"
+    },
+    {
+      "pos": [
+        2,
+        9,
+        6
+      ],
+      "block": "minecraft:stone_bricks"
+    },
+    {
+      "pos": [
+        2,
+        10,
+        2
+      ],
+      "block": "minecraft:stone_bricks"
+    },
+    {
+      "pos": [
+        2,
+        10,
+        3
+      ],
+      "block": "minecraft:stone_bricks"
+    },
+    {
+      "pos": [
+        2,
+        10,
+        4
+      ],
+      "block": "minecraft:stone_bricks"
+    },
+    {
+      "pos": [
+        2,
+        10,
+        5
+      ],
+      "block": "minecraft:stone_bricks"
+    },
+    {
+      "pos": [
+        2,
+        10,
+        6
+      ],
+      "block": "minecraft:stone_bricks"
+    },
+    {
+      "pos": [
+        2,
+        11,
+        2
+      ],
+      "block": "minecraft:stone_bricks"
+    },
+    {
+      "pos": [
+        2,
+        11,
+        3
+      ],
+      "block": "minecraft:stone_bricks"
+    },
+    {
+      "pos": [
+        2,
+        11,
+        4
+      ],
+      "block": "minecraft:stone_bricks"
+    },
+    {
+      "pos": [
+        2,
+        11,
+        5
+      ],
+      "block": "minecraft:stone_bricks"
+    },
+    {
+      "pos": [
+        2,
+        11,
+        6
+      ],
+      "block": "minecraft:stone_bricks"
+    },
+    {
+      "pos": [
+        2,
+        12,
+        1
+      ],
+      "block": "minecraft:stone_bricks"
+    },
+    {
+      "pos": [
+        2,
+        12,
+        2
+      ],
+      "block": "minecraft:stone_bricks"
+    },
+    {
+      "pos": [
+        2,
+        12,
+        3
+      ],
+      "block": "minecraft:stone_bricks"
+    },
+    {
+      "pos": [
+        2,
+        12,
+        4
+      ],
+      "block": "minecraft:stone_bricks"
+    },
+    {
+      "pos": [
+        2,
+        12,
+        5
+      ],
+      "block": "minecraft:stone_bricks"
+    },
+    {
+      "pos": [
+        2,
+        12,
+        6
+      ],
+      "block": "minecraft:stone_bricks"
+    },
+    {
+      "pos": [
+        2,
+        12,
+        7
+      ],
+      "block": "minecraft:stone_bricks"
+    },
+    {
+      "pos": [
+        3,
+        0,
+        0
+      ],
+      "block": "minecraft:mossy_cobblestone"
+    },
+    {
+      "pos": [
+        3,
+        0,
+        1
+      ],
+      "block": "minecraft:mossy_cobblestone"
+    },
+    {
+      "pos": [
+        3,
+        0,
+        2
+      ],
+      "block": "minecraft:mossy_cobblestone"
+    },
+    {
+      "pos": [
+        3,
+        0,
+        3
+      ],
+      "block": "minecraft:mossy_cobblestone"
+    },
+    {
+      "pos": [
+        3,
+        0,
+        4
+      ],
+      "block": "minecraft:mossy_cobblestone"
+    },
+    {
+      "pos": [
+        3,
+        0,
+        5
+      ],
+      "block": "minecraft:mossy_cobblestone"
+    },
+    {
+      "pos": [
+        3,
+        0,
+        6
+      ],
+      "block": "minecraft:mossy_cobblestone"
+    },
+    {
+      "pos": [
+        3,
+        0,
+        7
+      ],
+      "block": "minecraft:mossy_cobblestone"
+    },
+    {
+      "pos": [
+        3,
+        0,
+        8
+      ],
+      "block": "minecraft:mossy_cobblestone"
+    },
+    {
+      "pos": [
+        3,
+        1,
+        2
+      ],
+      "block": "minecraft:stone_bricks"
+    },
+    {
+      "pos": [
+        3,
+        1,
+        6
+      ],
+      "block": "minecraft:stone_bricks"
+    },
+    {
+      "pos": [
+        3,
+        2,
+        2
+      ],
+      "block": "minecraft:stone_bricks"
+    },
+    {
+      "pos": [
+        3,
+        2,
+        6
+      ],
+      "block": "minecraft:stone_bricks"
+    },
+    {
+      "pos": [
+        3,
+        3,
+        2
+      ],
+      "block": "minecraft:stone_bricks"
+    },
+    {
+      "pos": [
+        3,
+        3,
+        4
+      ],
+      "block": "minecraft:oak_planks"
+    },
+    {
+      "pos": [
+        3,
+        3,
+        6
+      ],
+      "block": "minecraft:stone_bricks"
+    },
+    {
+      "pos": [
+        3,
+        4,
+        2
+      ],
+      "block": "minecraft:stone_bricks"
+    },
+    {
+      "pos": [
+        3,
+        4,
+        6
+      ],
+      "block": "minecraft:stone_bricks"
+    },
+    {
+      "pos": [
+        3,
+        5,
+        2
+      ],
+      "block": "minecraft:stone_bricks"
+    },
+    {
+      "pos": [
+        3,
+        5,
+        6
+      ],
+      "block": "minecraft:stone_bricks"
+    },
+    {
+      "pos": [
+        3,
+        6,
+        2
+      ],
+      "block": "minecraft:stone_bricks"
+    },
+    {
+      "pos": [
+        3,
+        6,
+        5
+      ],
+      "block": "minecraft:oak_planks"
+    },
+    {
+      "pos": [
+        3,
+        6,
+        6
+      ],
+      "block": "minecraft:stone_bricks"
+    },
+    {
+      "pos": [
+        3,
+        7,
+        2
+      ],
+      "block": "minecraft:stone_bricks"
+    },
+    {
+      "pos": [
+        3,
+        7,
+        6
+      ],
+      "block": "minecraft:stone_bricks"
+    },
+    {
+      "pos": [
+        3,
+        8,
+        2
+      ],
+      "block": "minecraft:stone_bricks"
+    },
+    {
+      "pos": [
+        3,
+        8,
+        6
+      ],
+      "block": "minecraft:stone_bricks"
+    },
+    {
+      "pos": [
+        3,
+        9,
+        2
+      ],
+      "block": "minecraft:stone_bricks"
+    },
+    {
+      "pos": [
+        3,
+        9,
+        3
+      ],
+      "block": "minecraft:oak_planks"
+    },
+    {
+      "pos": [
+        3,
+        9,
+        6
+      ],
+      "block": "minecraft:stone_bricks"
+    },
+    {
+      "pos": [
+        3,
+        10,
+        2
+      ],
+      "block": "minecraft:stone_bricks"
+    },
+    {
+      "pos": [
+        3,
+        10,
+        6
+      ],
+      "block": "minecraft:stone_bricks"
+    },
+    {
+      "pos": [
+        3,
+        11,
+        2
+      ],
+      "block": "minecraft:stone_bricks"
+    },
+    {
+      "pos": [
+        3,
+        11,
+        6
+      ],
+      "block": "minecraft:stone_bricks"
+    },
+    {
+      "pos": [
+        3,
+        12,
+        1
+      ],
+      "block": "minecraft:stone_bricks"
+    },
+    {
+      "pos": [
+        3,
+        12,
+        2
+      ],
+      "block": "minecraft:stone_bricks"
+    },
+    {
+      "pos": [
+        3,
+        12,
+        3
+      ],
+      "block": "minecraft:stone_bricks"
+    },
+    {
+      "pos": [
+        3,
+        12,
+        4
+      ],
+      "block": "minecraft:stone_bricks"
+    },
+    {
+      "pos": [
+        3,
+        12,
+        5
+      ],
+      "block": "minecraft:stone_bricks"
+    },
+    {
+      "pos": [
+        3,
+        12,
+        6
+      ],
+      "block": "minecraft:stone_bricks"
+    },
+    {
+      "pos": [
+        3,
+        12,
+        7
+      ],
+      "block": "minecraft:stone_bricks"
+    },
+    {
+      "pos": [
+        4,
+        0,
+        0
+      ],
+      "block": "minecraft:mossy_cobblestone"
+    },
+    {
+      "pos": [
+        4,
+        0,
+        1
+      ],
+      "block": "minecraft:mossy_cobblestone"
+    },
+    {
+      "pos": [
+        4,
+        0,
+        2
+      ],
+      "block": "minecraft:mossy_cobblestone"
+    },
+    {
+      "pos": [
+        4,
+        0,
+        3
+      ],
+      "block": "minecraft:mossy_cobblestone"
+    },
+    {
+      "pos": [
+        4,
+        0,
+        4
+      ],
+      "block": "minecraft:mossy_cobblestone"
+    },
+    {
+      "pos": [
+        4,
+        0,
+        5
+      ],
+      "block": "minecraft:mossy_cobblestone"
+    },
+    {
+      "pos": [
+        4,
+        0,
+        6
+      ],
+      "block": "minecraft:mossy_cobblestone"
+    },
+    {
+      "pos": [
+        4,
+        0,
+        7
+      ],
+      "block": "minecraft:mossy_cobblestone"
+    },
+    {
+      "pos": [
+        4,
+        0,
+        8
+      ],
+      "block": "minecraft:mossy_cobblestone"
+    },
+    {
+      "pos": [
+        4,
+        1,
+        3
+      ],
+      "block": "minecraft:oak_planks"
+    },
+    {
+      "pos": [
+        4,
+        1,
+        6
+      ],
+      "block": "minecraft:stone_bricks"
+    },
+    {
+      "pos": [
+        4,
+        2,
+        6
+      ],
+      "block": "minecraft:stone_bricks"
+    },
+    {
+      "pos": [
+        4,
+        3,
+        2
+      ],
+      "block": "minecraft:stone_bricks"
+    },
+    {
+      "pos": [
+        4,
+        3,
+        6
+      ],
+      "block": "minecraft:stone_bricks"
+    },
+    {
+      "pos": [
+        4,
+        4,
+        2
+      ],
+      "block": "minecraft:stone_bricks"
+    },
+    {
+      "pos": [
+        4,
+        4,
+        4
+      ],
+      "block": "minecraft:oak_planks"
+    },
+    {
+      "pos": [
+        4,
+        4,
+        6
+      ],
+      "block": "minecraft:stone_bricks"
+    },
+    {
+      "pos": [
+        4,
+        5,
+        2
+      ],
+      "block": "minecraft:stone_bricks"
+    },
+    {
+      "pos": [
+        4,
+        5,
+        6
+      ],
+      "block": "minecraft:stone_bricks"
+    },
+    {
+      "pos": [
+        4,
+        6,
+        2
+      ],
+      "block": "minecraft:stone_bricks"
+    },
+    {
+      "pos": [
+        4,
+        6,
+        6
+      ],
+      "block": "minecraft:stone_bricks"
+    },
+    {
+      "pos": [
+        4,
+        7,
+        2
+      ],
+      "block": "minecraft:stone_bricks"
+    },
+    {
+      "pos": [
+        4,
+        7,
+        5
+      ],
+      "block": "minecraft:oak_planks"
+    },
+    {
+      "pos": [
+        4,
+        7,
+        6
+      ],
+      "block": "minecraft:stone_bricks"
+    },
+    {
+      "pos": [
+        4,
+        8,
+        2
+      ],
+      "block": "minecraft:stone_bricks"
+    },
+    {
+      "pos": [
+        4,
+        8,
+        6
+      ],
+      "block": "minecraft:stone_bricks"
+    },
+    {
+      "pos": [
+        4,
+        9,
+        2
+      ],
+      "block": "minecraft:stone_bricks"
+    },
+    {
+      "pos": [
+        4,
+        9,
+        6
+      ],
+      "block": "minecraft:stone_bricks"
+    },
+    {
+      "pos": [
+        4,
+        10,
+        2
+      ],
+      "block": "minecraft:stone_bricks"
+    },
+    {
+      "pos": [
+        4,
+        10,
+        3
+      ],
+      "block": "minecraft:oak_planks"
+    },
+    {
+      "pos": [
+        4,
+        10,
+        6
+      ],
+      "block": "minecraft:stone_bricks"
+    },
+    {
+      "pos": [
+        4,
+        11,
+        2
+      ],
+      "block": "minecraft:stone_bricks"
+    },
+    {
+      "pos": [
+        4,
+        11,
+        6
+      ],
+      "block": "minecraft:stone_bricks"
+    },
+    {
+      "pos": [
+        4,
+        12,
+        1
+      ],
+      "block": "minecraft:stone_bricks"
+    },
+    {
+      "pos": [
+        4,
+        12,
+        2
+      ],
+      "block": "minecraft:stone_bricks"
+    },
+    {
+      "pos": [
+        4,
+        12,
+        3
+      ],
+      "block": "minecraft:stone_bricks"
+    },
+    {
+      "pos": [
+        4,
+        12,
+        4
+      ],
+      "block": "minecraft:stone_bricks"
+    },
+    {
+      "pos": [
+        4,
+        12,
+        5
+      ],
+      "block": "minecraft:stone_bricks"
+    },
+    {
+      "pos": [
+        4,
+        12,
+        6
+      ],
+      "block": "minecraft:stone_bricks"
+    },
+    {
+      "pos": [
+        4,
+        12,
+        7
+      ],
+      "block": "minecraft:stone_bricks"
+    },
+    {
+      "pos": [
+        4,
+        13,
+        4
+      ],
+      "block": "minecraft:lodestone"
+    },
+    {
+      "pos": [
+        5,
+        0,
+        0
+      ],
+      "block": "minecraft:mossy_cobblestone"
+    },
+    {
+      "pos": [
+        5,
+        0,
+        1
+      ],
+      "block": "minecraft:mossy_cobblestone"
+    },
+    {
+      "pos": [
+        5,
+        0,
+        2
+      ],
+      "block": "minecraft:mossy_cobblestone"
+    },
+    {
+      "pos": [
+        5,
+        0,
+        3
+      ],
+      "block": "minecraft:mossy_cobblestone"
+    },
+    {
+      "pos": [
+        5,
+        0,
+        4
+      ],
+      "block": "minecraft:mossy_cobblestone"
+    },
+    {
+      "pos": [
+        5,
+        0,
+        5
+      ],
+      "block": "minecraft:mossy_cobblestone"
+    },
+    {
+      "pos": [
+        5,
+        0,
+        6
+      ],
+      "block": "minecraft:mossy_cobblestone"
+    },
+    {
+      "pos": [
+        5,
+        0,
+        7
+      ],
+      "block": "minecraft:mossy_cobblestone"
+    },
+    {
+      "pos": [
+        5,
+        0,
+        8
+      ],
+      "block": "minecraft:mossy_cobblestone"
+    },
+    {
+      "pos": [
+        5,
+        1,
+        2
+      ],
+      "block": "minecraft:stone_bricks"
+    },
+    {
+      "pos": [
+        5,
+        1,
+        6
+      ],
+      "block": "minecraft:stone_bricks"
+    },
+    {
+      "pos": [
+        5,
+        2,
+        2
+      ],
+      "block": "minecraft:stone_bricks"
+    },
+    {
+      "pos": [
+        5,
+        2,
+        3
+      ],
+      "block": "minecraft:oak_planks"
+    },
+    {
+      "pos": [
+        5,
+        2,
+        6
+      ],
+      "block": "minecraft:stone_bricks"
+    },
+    {
+      "pos": [
+        5,
+        3,
+        2
+      ],
+      "block": "minecraft:stone_bricks"
+    },
+    {
+      "pos": [
+        5,
+        3,
+        6
+      ],
+      "block": "minecraft:stone_bricks"
+    },
+    {
+      "pos": [
+        5,
+        4,
+        2
+      ],
+      "block": "minecraft:stone_bricks"
+    },
+    {
+      "pos": [
+        5,
+        4,
+        6
+      ],
+      "block": "minecraft:stone_bricks"
+    },
+    {
+      "pos": [
+        5,
+        5,
+        2
+      ],
+      "block": "minecraft:stone_bricks"
+    },
+    {
+      "pos": [
+        5,
+        5,
+        4
+      ],
+      "block": "minecraft:oak_planks"
+    },
+    {
+      "pos": [
+        5,
+        5,
+        6
+      ],
+      "block": "minecraft:stone_bricks"
+    },
+    {
+      "pos": [
+        5,
+        6,
+        2
+      ],
+      "block": "minecraft:stone_bricks"
+    },
+    {
+      "pos": [
+        5,
+        6,
+        6
+      ],
+      "block": "minecraft:stone_bricks"
+    },
+    {
+      "pos": [
+        5,
+        7,
+        2
+      ],
+      "block": "minecraft:stone_bricks"
+    },
+    {
+      "pos": [
+        5,
+        7,
+        6
+      ],
+      "block": "minecraft:stone_bricks"
+    },
+    {
+      "pos": [
+        5,
+        8,
+        2
+      ],
+      "block": "minecraft:stone_bricks"
+    },
+    {
+      "pos": [
+        5,
+        8,
+        5
+      ],
+      "block": "minecraft:oak_planks"
+    },
+    {
+      "pos": [
+        5,
+        8,
+        6
+      ],
+      "block": "minecraft:stone_bricks"
+    },
+    {
+      "pos": [
+        5,
+        9,
+        2
+      ],
+      "block": "minecraft:stone_bricks"
+    },
+    {
+      "pos": [
+        5,
+        9,
+        6
+      ],
+      "block": "minecraft:stone_bricks"
+    },
+    {
+      "pos": [
+        5,
+        10,
+        2
+      ],
+      "block": "minecraft:stone_bricks"
+    },
+    {
+      "pos": [
+        5,
+        10,
+        6
+      ],
+      "block": "minecraft:stone_bricks"
+    },
+    {
+      "pos": [
+        5,
+        11,
+        2
+      ],
+      "block": "minecraft:stone_bricks"
+    },
+    {
+      "pos": [
+        5,
+        11,
+        3
+      ],
+      "block": "minecraft:oak_planks"
+    },
+    {
+      "pos": [
+        5,
+        11,
+        6
+      ],
+      "block": "minecraft:stone_bricks"
+    },
+    {
+      "pos": [
+        5,
+        12,
+        1
+      ],
+      "block": "minecraft:stone_bricks"
+    },
+    {
+      "pos": [
+        5,
+        12,
+        2
+      ],
+      "block": "minecraft:stone_bricks"
+    },
+    {
+      "pos": [
+        5,
+        12,
+        3
+      ],
+      "block": "minecraft:stone_bricks"
+    },
+    {
+      "pos": [
+        5,
+        12,
+        4
+      ],
+      "block": "minecraft:stone_bricks"
+    },
+    {
+      "pos": [
+        5,
+        12,
+        5
+      ],
+      "block": "minecraft:stone_bricks"
+    },
+    {
+      "pos": [
+        5,
+        12,
+        6
+      ],
+      "block": "minecraft:stone_bricks"
+    },
+    {
+      "pos": [
+        5,
+        12,
+        7
+      ],
+      "block": "minecraft:stone_bricks"
+    },
+    {
+      "pos": [
+        6,
+        0,
+        0
+      ],
+      "block": "minecraft:mossy_cobblestone"
+    },
+    {
+      "pos": [
+        6,
+        0,
+        1
+      ],
+      "block": "minecraft:mossy_cobblestone"
+    },
+    {
+      "pos": [
+        6,
+        0,
+        2
+      ],
+      "block": "minecraft:mossy_cobblestone"
+    },
+    {
+      "pos": [
+        6,
+        0,
+        3
+      ],
+      "block": "minecraft:mossy_cobblestone"
+    },
+    {
+      "pos": [
+        6,
+        0,
+        4
+      ],
+      "block": "minecraft:mossy_cobblestone"
+    },
+    {
+      "pos": [
+        6,
+        0,
+        5
+      ],
+      "block": "minecraft:mossy_cobblestone"
+    },
+    {
+      "pos": [
+        6,
+        0,
+        6
+      ],
+      "block": "minecraft:mossy_cobblestone"
+    },
+    {
+      "pos": [
+        6,
+        0,
+        7
+      ],
+      "block": "minecraft:mossy_cobblestone"
+    },
+    {
+      "pos": [
+        6,
+        0,
+        8
+      ],
+      "block": "minecraft:mossy_cobblestone"
+    },
+    {
+      "pos": [
+        6,
+        1,
+        2
+      ],
+      "block": "minecraft:stone_bricks"
+    },
+    {
+      "pos": [
+        6,
+        1,
+        3
+      ],
+      "block": "minecraft:stone_bricks"
+    },
+    {
+      "pos": [
+        6,
+        1,
+        4
+      ],
+      "block": "minecraft:stone_bricks"
+    },
+    {
+      "pos": [
+        6,
+        1,
+        5
+      ],
+      "block": "minecraft:stone_bricks"
+    },
+    {
+      "pos": [
+        6,
+        1,
+        6
+      ],
+      "block": "minecraft:stone_bricks"
+    },
+    {
+      "pos": [
+        6,
+        2,
+        2
+      ],
+      "block": "minecraft:stone_bricks"
+    },
+    {
+      "pos": [
+        6,
+        2,
+        3
+      ],
+      "block": "minecraft:stone_bricks"
+    },
+    {
+      "pos": [
+        6,
+        2,
+        4
+      ],
+      "block": "minecraft:stone_bricks"
+    },
+    {
+      "pos": [
+        6,
+        2,
+        5
+      ],
+      "block": "minecraft:stone_bricks"
+    },
+    {
+      "pos": [
+        6,
+        2,
+        6
+      ],
+      "block": "minecraft:stone_bricks"
+    },
+    {
+      "pos": [
+        6,
+        3,
+        2
+      ],
+      "block": "minecraft:stone_bricks"
+    },
+    {
+      "pos": [
+        6,
+        3,
+        3
+      ],
+      "block": "minecraft:stone_bricks"
+    },
+    {
+      "pos": [
+        6,
+        3,
+        4
+      ],
+      "block": "minecraft:stone_bricks"
+    },
+    {
+      "pos": [
+        6,
+        3,
+        5
+      ],
+      "block": "minecraft:stone_bricks"
+    },
+    {
+      "pos": [
+        6,
+        3,
+        6
+      ],
+      "block": "minecraft:stone_bricks"
+    },
+    {
+      "pos": [
+        6,
+        4,
+        2
+      ],
+      "block": "minecraft:stone_bricks"
+    },
+    {
+      "pos": [
+        6,
+        4,
+        3
+      ],
+      "block": "minecraft:stone_bricks"
+    },
+    {
+      "pos": [
+        6,
+        4,
+        4
+      ],
+      "block": "minecraft:stone_bricks"
+    },
+    {
+      "pos": [
+        6,
+        4,
+        5
+      ],
+      "block": "minecraft:stone_bricks"
+    },
+    {
+      "pos": [
+        6,
+        4,
+        6
+      ],
+      "block": "minecraft:stone_bricks"
+    },
+    {
+      "pos": [
+        6,
+        5,
+        2
+      ],
+      "block": "minecraft:stone_bricks"
+    },
+    {
+      "pos": [
+        6,
+        5,
+        3
+      ],
+      "block": "minecraft:stone_bricks"
+    },
+    {
+      "pos": [
+        6,
+        5,
+        4
+      ],
+      "block": "minecraft:stone_bricks"
+    },
+    {
+      "pos": [
+        6,
+        5,
+        5
+      ],
+      "block": "minecraft:stone_bricks"
+    },
+    {
+      "pos": [
+        6,
+        5,
+        6
+      ],
+      "block": "minecraft:stone_bricks"
+    },
+    {
+      "pos": [
+        6,
+        6,
+        2
+      ],
+      "block": "minecraft:stone_bricks"
+    },
+    {
+      "pos": [
+        6,
+        6,
+        3
+      ],
+      "block": "minecraft:stone_bricks"
+    },
+    {
+      "pos": [
+        6,
+        6,
+        4
+      ],
+      "block": "minecraft:stone_bricks"
+    },
+    {
+      "pos": [
+        6,
+        6,
+        5
+      ],
+      "block": "minecraft:stone_bricks"
+    },
+    {
+      "pos": [
+        6,
+        6,
+        6
+      ],
+      "block": "minecraft:stone_bricks"
+    },
+    {
+      "pos": [
+        6,
+        7,
+        2
+      ],
+      "block": "minecraft:stone_bricks"
+    },
+    {
+      "pos": [
+        6,
+        7,
+        3
+      ],
+      "block": "minecraft:stone_bricks"
+    },
+    {
+      "pos": [
+        6,
+        7,
+        4
+      ],
+      "block": "minecraft:stone_bricks"
+    },
+    {
+      "pos": [
+        6,
+        7,
+        5
+      ],
+      "block": "minecraft:stone_bricks"
+    },
+    {
+      "pos": [
+        6,
+        7,
+        6
+      ],
+      "block": "minecraft:stone_bricks"
+    },
+    {
+      "pos": [
+        6,
+        8,
+        2
+      ],
+      "block": "minecraft:stone_bricks"
+    },
+    {
+      "pos": [
+        6,
+        8,
+        3
+      ],
+      "block": "minecraft:stone_bricks"
+    },
+    {
+      "pos": [
+        6,
+        8,
+        4
+      ],
+      "block": "minecraft:stone_bricks"
+    },
+    {
+      "pos": [
+        6,
+        8,
+        5
+      ],
+      "block": "minecraft:stone_bricks"
+    },
+    {
+      "pos": [
+        6,
+        8,
+        6
+      ],
+      "block": "minecraft:stone_bricks"
+    },
+    {
+      "pos": [
+        6,
+        9,
+        2
+      ],
+      "block": "minecraft:stone_bricks"
+    },
+    {
+      "pos": [
+        6,
+        9,
+        3
+      ],
+      "block": "minecraft:stone_bricks"
+    },
+    {
+      "pos": [
+        6,
+        9,
+        4
+      ],
+      "block": "minecraft:stone_bricks"
+    },
+    {
+      "pos": [
+        6,
+        9,
+        5
+      ],
+      "block": "minecraft:stone_bricks"
+    },
+    {
+      "pos": [
+        6,
+        9,
+        6
+      ],
+      "block": "minecraft:stone_bricks"
+    },
+    {
+      "pos": [
+        6,
+        10,
+        2
+      ],
+      "block": "minecraft:stone_bricks"
+    },
+    {
+      "pos": [
+        6,
+        10,
+        3
+      ],
+      "block": "minecraft:stone_bricks"
+    },
+    {
+      "pos": [
+        6,
+        10,
+        4
+      ],
+      "block": "minecraft:stone_bricks"
+    },
+    {
+      "pos": [
+        6,
+        10,
+        5
+      ],
+      "block": "minecraft:stone_bricks"
+    },
+    {
+      "pos": [
+        6,
+        10,
+        6
+      ],
+      "block": "minecraft:stone_bricks"
+    },
+    {
+      "pos": [
+        6,
+        11,
+        2
+      ],
+      "block": "minecraft:stone_bricks"
+    },
+    {
+      "pos": [
+        6,
+        11,
+        3
+      ],
+      "block": "minecraft:stone_bricks"
+    },
+    {
+      "pos": [
+        6,
+        11,
+        4
+      ],
+      "block": "minecraft:stone_bricks"
+    },
+    {
+      "pos": [
+        6,
+        11,
+        5
+      ],
+      "block": "minecraft:stone_bricks"
+    },
+    {
+      "pos": [
+        6,
+        11,
+        6
+      ],
+      "block": "minecraft:stone_bricks"
+    },
+    {
+      "pos": [
+        6,
+        12,
+        1
+      ],
+      "block": "minecraft:stone_bricks"
+    },
+    {
+      "pos": [
+        6,
+        12,
+        2
+      ],
+      "block": "minecraft:stone_bricks"
+    },
+    {
+      "pos": [
+        6,
+        12,
+        3
+      ],
+      "block": "minecraft:stone_bricks"
+    },
+    {
+      "pos": [
+        6,
+        12,
+        4
+      ],
+      "block": "minecraft:stone_bricks"
+    },
+    {
+      "pos": [
+        6,
+        12,
+        5
+      ],
+      "block": "minecraft:stone_bricks"
+    },
+    {
+      "pos": [
+        6,
+        12,
+        6
+      ],
+      "block": "minecraft:stone_bricks"
+    },
+    {
+      "pos": [
+        6,
+        12,
+        7
+      ],
+      "block": "minecraft:stone_bricks"
+    },
+    {
+      "pos": [
+        7,
+        0,
+        0
+      ],
+      "block": "minecraft:mossy_cobblestone"
+    },
+    {
+      "pos": [
+        7,
+        0,
+        1
+      ],
+      "block": "minecraft:mossy_cobblestone"
+    },
+    {
+      "pos": [
+        7,
+        0,
+        2
+      ],
+      "block": "minecraft:mossy_cobblestone"
+    },
+    {
+      "pos": [
+        7,
+        0,
+        3
+      ],
+      "block": "minecraft:mossy_cobblestone"
+    },
+    {
+      "pos": [
+        7,
+        0,
+        4
+      ],
+      "block": "minecraft:mossy_cobblestone"
+    },
+    {
+      "pos": [
+        7,
+        0,
+        5
+      ],
+      "block": "minecraft:mossy_cobblestone"
+    },
+    {
+      "pos": [
+        7,
+        0,
+        6
+      ],
+      "block": "minecraft:mossy_cobblestone"
+    },
+    {
+      "pos": [
+        7,
+        0,
+        7
+      ],
+      "block": "minecraft:mossy_cobblestone"
+    },
+    {
+      "pos": [
+        7,
+        0,
+        8
+      ],
+      "block": "minecraft:mossy_cobblestone"
+    },
+    {
+      "pos": [
+        7,
+        12,
+        1
+      ],
+      "block": "minecraft:stone_bricks"
+    },
+    {
+      "pos": [
+        7,
+        12,
+        2
+      ],
+      "block": "minecraft:stone_bricks"
+    },
+    {
+      "pos": [
+        7,
+        12,
+        3
+      ],
+      "block": "minecraft:stone_bricks"
+    },
+    {
+      "pos": [
+        7,
+        12,
+        4
+      ],
+      "block": "minecraft:stone_bricks"
+    },
+    {
+      "pos": [
+        7,
+        12,
+        5
+      ],
+      "block": "minecraft:stone_bricks"
+    },
+    {
+      "pos": [
+        7,
+        12,
+        6
+      ],
+      "block": "minecraft:stone_bricks"
+    },
+    {
+      "pos": [
+        7,
+        12,
+        7
+      ],
+      "block": "minecraft:stone_bricks"
+    },
+    {
+      "pos": [
+        7,
+        13,
+        1
+      ],
+      "block": "minecraft:glowstone"
+    },
+    {
+      "pos": [
+        7,
+        13,
+        7
+      ],
+      "block": "minecraft:glowstone"
+    },
+    {
+      "pos": [
+        8,
+        0,
+        0
+      ],
+      "block": "minecraft:mossy_cobblestone"
+    },
+    {
+      "pos": [
+        8,
+        0,
+        1
+      ],
+      "block": "minecraft:mossy_cobblestone"
+    },
+    {
+      "pos": [
+        8,
+        0,
+        2
+      ],
+      "block": "minecraft:mossy_cobblestone"
+    },
+    {
+      "pos": [
+        8,
+        0,
+        3
+      ],
+      "block": "minecraft:mossy_cobblestone"
+    },
+    {
+      "pos": [
+        8,
+        0,
+        4
+      ],
+      "block": "minecraft:mossy_cobblestone"
+    },
+    {
+      "pos": [
+        8,
+        0,
+        5
+      ],
+      "block": "minecraft:mossy_cobblestone"
+    },
+    {
+      "pos": [
+        8,
+        0,
+        6
+      ],
+      "block": "minecraft:mossy_cobblestone"
+    },
+    {
+      "pos": [
+        8,
+        0,
+        7
+      ],
+      "block": "minecraft:mossy_cobblestone"
+    },
+    {
+      "pos": [
+        8,
+        0,
+        8
+      ],
+      "block": "minecraft:mossy_cobblestone"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "target": {
+    "weapons_min": 201,
+    "mobs_and_bosses_min": 501,
+    "structures_min": 1001
+  },
+  "prototype": {
+    "weapon_source_entries": 5,
+    "ability_swords": 4,
+    "basic_bows": 1,
+    "new_entity_types": 0,
+    "structure_templates": 3,
+    "natural_world_generation": false,
+    "custom_textures": false,
+    "compiled": false,
+    "game_tested": false
+  },
+  "structure_block_counts": [
+    172,
+    374,
+    320
+  ]
+}

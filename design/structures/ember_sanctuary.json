@@ -1,0 +1,1385 @@
+{
+  "size": [
+    11,
+    7,
+    11
+  ],
+  "blocks": [
+    {
+      "pos": [
+        0,
+        0,
+        0
+      ],
+      "block": "minecraft:polished_blackstone_bricks"
+    },
+    {
+      "pos": [
+        0,
+        0,
+        1
+      ],
+      "block": "minecraft:polished_blackstone_bricks"
+    },
+    {
+      "pos": [
+        0,
+        0,
+        2
+      ],
+      "block": "minecraft:polished_blackstone_bricks"
+    },
+    {
+      "pos": [
+        0,
+        0,
+        3
+      ],
+      "block": "minecraft:polished_blackstone_bricks"
+    },
+    {
+      "pos": [
+        0,
+        0,
+        4
+      ],
+      "block": "minecraft:polished_blackstone_bricks"
+    },
+    {
+      "pos": [
+        0,
+        0,
+        5
+      ],
+      "block": "minecraft:polished_blackstone_bricks"
+    },
+    {
+      "pos": [
+        0,
+        0,
+        6
+      ],
+      "block": "minecraft:polished_blackstone_bricks"
+    },
+    {
+      "pos": [
+        0,
+        0,
+        7
+      ],
+      "block": "minecraft:polished_blackstone_bricks"
+    },
+    {
+      "pos": [
+        0,
+        0,
+        8
+      ],
+      "block": "minecraft:polished_blackstone_bricks"
+    },
+    {
+      "pos": [
+        0,
+        0,
+        9
+      ],
+      "block": "minecraft:polished_blackstone_bricks"
+    },
+    {
+      "pos": [
+        0,
+        0,
+        10
+      ],
+      "block": "minecraft:polished_blackstone_bricks"
+    },
+    {
+      "pos": [
+        1,
+        0,
+        0
+      ],
+      "block": "minecraft:polished_blackstone_bricks"
+    },
+    {
+      "pos": [
+        1,
+        0,
+        1
+      ],
+      "block": "minecraft:polished_blackstone_bricks"
+    },
+    {
+      "pos": [
+        1,
+        0,
+        2
+      ],
+      "block": "minecraft:polished_blackstone_bricks"
+    },
+    {
+      "pos": [
+        1,
+        0,
+        3
+      ],
+      "block": "minecraft:polished_blackstone_bricks"
+    },
+    {
+      "pos": [
+        1,
+        0,
+        4
+      ],
+      "block": "minecraft:polished_blackstone_bricks"
+    },
+    {
+      "pos": [
+        1,
+        0,
+        5
+      ],
+      "block": "minecraft:polished_blackstone_bricks"
+    },
+    {
+      "pos": [
+        1,
+        0,
+        6
+      ],
+      "block": "minecraft:polished_blackstone_bricks"
+    },
+    {
+      "pos": [
+        1,
+        0,
+        7
+      ],
+      "block": "minecraft:polished_blackstone_bricks"
+    },
+    {
+      "pos": [
+        1,
+        0,
+        8
+      ],
+      "block": "minecraft:polished_blackstone_bricks"
+    },
+    {
+      "pos": [
+        1,
+        0,
+        9
+      ],
+      "block": "minecraft:polished_blackstone_bricks"
+    },
+    {
+      "pos": [
+        1,
+        0,
+        10
+      ],
+      "block": "minecraft:polished_blackstone_bricks"
+    },
+    {
+      "pos": [
+        1,
+        1,
+        1
+      ],
+      "block": "minecraft:basalt"
+    },
+    {
+      "pos": [
+        1,
+        1,
+        9
+      ],
+      "block": "minecraft:basalt"
+    },
+    {
+      "pos": [
+        1,
+        2,
+        1
+      ],
+      "block": "minecraft:basalt"
+    },
+    {
+      "pos": [
+        1,
+        2,
+        9
+      ],
+      "block": "minecraft:basalt"
+    },
+    {
+      "pos": [
+        1,
+        3,
+        1
+      ],
+      "block": "minecraft:basalt"
+    },
+    {
+      "pos": [
+        1,
+        3,
+        9
+      ],
+      "block": "minecraft:basalt"
+    },
+    {
+      "pos": [
+        1,
+        4,
+        1
+      ],
+      "block": "minecraft:basalt"
+    },
+    {
+      "pos": [
+        1,
+        4,
+        9
+      ],
+      "block": "minecraft:basalt"
+    },
+    {
+      "pos": [
+        1,
+        5,
+        1
+      ],
+      "block": "minecraft:basalt"
+    },
+    {
+      "pos": [
+        1,
+        5,
+        9
+      ],
+      "block": "minecraft:basalt"
+    },
+    {
+      "pos": [
+        1,
+        6,
+        1
+      ],
+      "block": "minecraft:glowstone"
+    },
+    {
+      "pos": [
+        1,
+        6,
+        9
+      ],
+      "block": "minecraft:glowstone"
+    },
+    {
+      "pos": [
+        2,
+        0,
+        0
+      ],
+      "block": "minecraft:polished_blackstone_bricks"
+    },
+    {
+      "pos": [
+        2,
+        0,
+        1
+      ],
+      "block": "minecraft:polished_blackstone_bricks"
+    },
+    {
+      "pos": [
+        2,
+        0,
+        2
+      ],
+      "block": "minecraft:polished_blackstone_bricks"
+    },
+    {
+      "pos": [
+        2,
+        0,
+        3
+      ],
+      "block": "minecraft:polished_blackstone_bricks"
+    },
+    {
+      "pos": [
+        2,
+        0,
+        4
+      ],
+      "block": "minecraft:polished_blackstone_bricks"
+    },
+    {
+      "pos": [
+        2,
+        0,
+        5
+      ],
+      "block": "minecraft:polished_blackstone_bricks"
+    },
+    {
+      "pos": [
+        2,
+        0,
+        6
+      ],
+      "block": "minecraft:polished_blackstone_bricks"
+    },
+    {
+      "pos": [
+        2,
+        0,
+        7
+      ],
+      "block": "minecraft:polished_blackstone_bricks"
+    },
+    {
+      "pos": [
+        2,
+        0,
+        8
+      ],
+      "block": "minecraft:polished_blackstone_bricks"
+    },
+    {
+      "pos": [
+        2,
+        0,
+        9
+      ],
+      "block": "minecraft:polished_blackstone_bricks"
+    },
+    {
+      "pos": [
+        2,
+        0,
+        10
+      ],
+      "block": "minecraft:polished_blackstone_bricks"
+    },
+    {
+      "pos": [
+        3,
+        0,
+        0
+      ],
+      "block": "minecraft:polished_blackstone_bricks"
+    },
+    {
+      "pos": [
+        3,
+        0,
+        1
+      ],
+      "block": "minecraft:polished_blackstone_bricks"
+    },
+    {
+      "pos": [
+        3,
+        0,
+        2
+      ],
+      "block": "minecraft:polished_blackstone_bricks"
+    },
+    {
+      "pos": [
+        3,
+        0,
+        3
+      ],
+      "block": "minecraft:polished_blackstone_bricks"
+    },
+    {
+      "pos": [
+        3,
+        0,
+        4
+      ],
+      "block": "minecraft:polished_blackstone_bricks"
+    },
+    {
+      "pos": [
+        3,
+        0,
+        5
+      ],
+      "block": "minecraft:polished_blackstone_bricks"
+    },
+    {
+      "pos": [
+        3,
+        0,
+        6
+      ],
+      "block": "minecraft:polished_blackstone_bricks"
+    },
+    {
+      "pos": [
+        3,
+        0,
+        7
+      ],
+      "block": "minecraft:polished_blackstone_bricks"
+    },
+    {
+      "pos": [
+        3,
+        0,
+        8
+      ],
+      "block": "minecraft:polished_blackstone_bricks"
+    },
+    {
+      "pos": [
+        3,
+        0,
+        9
+      ],
+      "block": "minecraft:polished_blackstone_bricks"
+    },
+    {
+      "pos": [
+        3,
+        0,
+        10
+      ],
+      "block": "minecraft:polished_blackstone_bricks"
+    },
+    {
+      "pos": [
+        3,
+        1,
+        3
+      ],
+      "block": "minecraft:chiseled_polished_blackstone"
+    },
+    {
+      "pos": [
+        3,
+        1,
+        4
+      ],
+      "block": "minecraft:chiseled_polished_blackstone"
+    },
+    {
+      "pos": [
+        3,
+        1,
+        5
+      ],
+      "block": "minecraft:chiseled_polished_blackstone"
+    },
+    {
+      "pos": [
+        3,
+        1,
+        6
+      ],
+      "block": "minecraft:chiseled_polished_blackstone"
+    },
+    {
+      "pos": [
+        3,
+        1,
+        7
+      ],
+      "block": "minecraft:chiseled_polished_blackstone"
+    },
+    {
+      "pos": [
+        4,
+        0,
+        0
+      ],
+      "block": "minecraft:polished_blackstone_bricks"
+    },
+    {
+      "pos": [
+        4,
+        0,
+        1
+      ],
+      "block": "minecraft:polished_blackstone_bricks"
+    },
+    {
+      "pos": [
+        4,
+        0,
+        2
+      ],
+      "block": "minecraft:polished_blackstone_bricks"
+    },
+    {
+      "pos": [
+        4,
+        0,
+        3
+      ],
+      "block": "minecraft:polished_blackstone_bricks"
+    },
+    {
+      "pos": [
+        4,
+        0,
+        4
+      ],
+      "block": "minecraft:polished_blackstone_bricks"
+    },
+    {
+      "pos": [
+        4,
+        0,
+        5
+      ],
+      "block": "minecraft:polished_blackstone_bricks"
+    },
+    {
+      "pos": [
+        4,
+        0,
+        6
+      ],
+      "block": "minecraft:polished_blackstone_bricks"
+    },
+    {
+      "pos": [
+        4,
+        0,
+        7
+      ],
+      "block": "minecraft:polished_blackstone_bricks"
+    },
+    {
+      "pos": [
+        4,
+        0,
+        8
+      ],
+      "block": "minecraft:polished_blackstone_bricks"
+    },
+    {
+      "pos": [
+        4,
+        0,
+        9
+      ],
+      "block": "minecraft:polished_blackstone_bricks"
+    },
+    {
+      "pos": [
+        4,
+        0,
+        10
+      ],
+      "block": "minecraft:polished_blackstone_bricks"
+    },
+    {
+      "pos": [
+        4,
+        1,
+        3
+      ],
+      "block": "minecraft:chiseled_polished_blackstone"
+    },
+    {
+      "pos": [
+        4,
+        1,
+        4
+      ],
+      "block": "minecraft:chiseled_polished_blackstone"
+    },
+    {
+      "pos": [
+        4,
+        1,
+        5
+      ],
+      "block": "minecraft:chiseled_polished_blackstone"
+    },
+    {
+      "pos": [
+        4,
+        1,
+        6
+      ],
+      "block": "minecraft:chiseled_polished_blackstone"
+    },
+    {
+      "pos": [
+        4,
+        1,
+        7
+      ],
+      "block": "minecraft:chiseled_polished_blackstone"
+    },
+    {
+      "pos": [
+        5,
+        0,
+        0
+      ],
+      "block": "minecraft:polished_blackstone_bricks"
+    },
+    {
+      "pos": [
+        5,
+        0,
+        1
+      ],
+      "block": "minecraft:polished_blackstone_bricks"
+    },
+    {
+      "pos": [
+        5,
+        0,
+        2
+      ],
+      "block": "minecraft:polished_blackstone_bricks"
+    },
+    {
+      "pos": [
+        5,
+        0,
+        3
+      ],
+      "block": "minecraft:polished_blackstone_bricks"
+    },
+    {
+      "pos": [
+        5,
+        0,
+        4
+      ],
+      "block": "minecraft:polished_blackstone_bricks"
+    },
+    {
+      "pos": [
+        5,
+        0,
+        5
+      ],
+      "block": "minecraft:polished_blackstone_bricks"
+    },
+    {
+      "pos": [
+        5,
+        0,
+        6
+      ],
+      "block": "minecraft:polished_blackstone_bricks"
+    },
+    {
+      "pos": [
+        5,
+        0,
+        7
+      ],
+      "block": "minecraft:polished_blackstone_bricks"
+    },
+    {
+      "pos": [
+        5,
+        0,
+        8
+      ],
+      "block": "minecraft:polished_blackstone_bricks"
+    },
+    {
+      "pos": [
+        5,
+        0,
+        9
+      ],
+      "block": "minecraft:polished_blackstone_bricks"
+    },
+    {
+      "pos": [
+        5,
+        0,
+        10
+      ],
+      "block": "minecraft:polished_blackstone_bricks"
+    },
+    {
+      "pos": [
+        5,
+        1,
+        3
+      ],
+      "block": "minecraft:chiseled_polished_blackstone"
+    },
+    {
+      "pos": [
+        5,
+        1,
+        4
+      ],
+      "block": "minecraft:chiseled_polished_blackstone"
+    },
+    {
+      "pos": [
+        5,
+        1,
+        5
+      ],
+      "block": "minecraft:chiseled_polished_blackstone"
+    },
+    {
+      "pos": [
+        5,
+        1,
+        6
+      ],
+      "block": "minecraft:chiseled_polished_blackstone"
+    },
+    {
+      "pos": [
+        5,
+        1,
+        7
+      ],
+      "block": "minecraft:chiseled_polished_blackstone"
+    },
+    {
+      "pos": [
+        5,
+        2,
+        5
+      ],
+      "block": "minecraft:magma_block"
+    },
+    {
+      "pos": [
+        5,
+        3,
+        5
+      ],
+      "block": "minecraft:gold_block"
+    },
+    {
+      "pos": [
+        6,
+        0,
+        0
+      ],
+      "block": "minecraft:polished_blackstone_bricks"
+    },
+    {
+      "pos": [
+        6,
+        0,
+        1
+      ],
+      "block": "minecraft:polished_blackstone_bricks"
+    },
+    {
+      "pos": [
+        6,
+        0,
+        2
+      ],
+      "block": "minecraft:polished_blackstone_bricks"
+    },
+    {
+      "pos": [
+        6,
+        0,
+        3
+      ],
+      "block": "minecraft:polished_blackstone_bricks"
+    },
+    {
+      "pos": [
+        6,
+        0,
+        4
+      ],
+      "block": "minecraft:polished_blackstone_bricks"
+    },
+    {
+      "pos": [
+        6,
+        0,
+        5
+      ],
+      "block": "minecraft:polished_blackstone_bricks"
+    },
+    {
+      "pos": [
+        6,
+        0,
+        6
+      ],
+      "block": "minecraft:polished_blackstone_bricks"
+    },
+    {
+      "pos": [
+        6,
+        0,
+        7
+      ],
+      "block": "minecraft:polished_blackstone_bricks"
+    },
+    {
+      "pos": [
+        6,
+        0,
+        8
+      ],
+      "block": "minecraft:polished_blackstone_bricks"
+    },
+    {
+      "pos": [
+        6,
+        0,
+        9
+      ],
+      "block": "minecraft:polished_blackstone_bricks"
+    },
+    {
+      "pos": [
+        6,
+        0,
+        10
+      ],
+      "block": "minecraft:polished_blackstone_bricks"
+    },
+    {
+      "pos": [
+        6,
+        1,
+        3
+      ],
+      "block": "minecraft:chiseled_polished_blackstone"
+    },
+    {
+      "pos": [
+        6,
+        1,
+        4
+      ],
+      "block": "minecraft:chiseled_polished_blackstone"
+    },
+    {
+      "pos": [
+        6,
+        1,
+        5
+      ],
+      "block": "minecraft:chiseled_polished_blackstone"
+    },
+    {
+      "pos": [
+        6,
+        1,
+        6
+      ],
+      "block": "minecraft:chiseled_polished_blackstone"
+    },
+    {
+      "pos": [
+        6,
+        1,
+        7
+      ],
+      "block": "minecraft:chiseled_polished_blackstone"
+    },
+    {
+      "pos": [
+        7,
+        0,
+        0
+      ],
+      "block": "minecraft:polished_blackstone_bricks"
+    },
+    {
+      "pos": [
+        7,
+        0,
+        1
+      ],
+      "block": "minecraft:polished_blackstone_bricks"
+    },
+    {
+      "pos": [
+        7,
+        0,
+        2
+      ],
+      "block": "minecraft:polished_blackstone_bricks"
+    },
+    {
+      "pos": [
+        7,
+        0,
+        3
+      ],
+      "block": "minecraft:polished_blackstone_bricks"
+    },
+    {
+      "pos": [
+        7,
+        0,
+        4
+      ],
+      "block": "minecraft:polished_blackstone_bricks"
+    },
+    {
+      "pos": [
+        7,
+        0,
+        5
+      ],
+      "block": "minecraft:polished_blackstone_bricks"
+    },
+    {
+      "pos": [
+        7,
+        0,
+        6
+      ],
+      "block": "minecraft:polished_blackstone_bricks"
+    },
+    {
+      "pos": [
+        7,
+        0,
+        7
+      ],
+      "block": "minecraft:polished_blackstone_bricks"
+    },
+    {
+      "pos": [
+        7,
+        0,
+        8
+      ],
+      "block": "minecraft:polished_blackstone_bricks"
+    },
+    {
+      "pos": [
+        7,
+        0,
+        9
+      ],
+      "block": "minecraft:polished_blackstone_bricks"
+    },
+    {
+      "pos": [
+        7,
+        0,
+        10
+      ],
+      "block": "minecraft:polished_blackstone_bricks"
+    },
+    {
+      "pos": [
+        7,
+        1,
+        3
+      ],
+      "block": "minecraft:chiseled_polished_blackstone"
+    },
+    {
+      "pos": [
+        7,
+        1,
+        4
+      ],
+      "block": "minecraft:chiseled_polished_blackstone"
+    },
+    {
+      "pos": [
+        7,
+        1,
+        5
+      ],
+      "block": "minecraft:chiseled_polished_blackstone"
+    },
+    {
+      "pos": [
+        7,
+        1,
+        6
+      ],
+      "block": "minecraft:chiseled_polished_blackstone"
+    },
+    {
+      "pos": [
+        7,
+        1,
+        7
+      ],
+      "block": "minecraft:chiseled_polished_blackstone"
+    },
+    {
+      "pos": [
+        8,
+        0,
+        0
+      ],
+      "block": "minecraft:polished_blackstone_bricks"
+    },
+    {
+      "pos": [
+        8,
+        0,
+        1
+      ],
+      "block": "minecraft:polished_blackstone_bricks"
+    },
+    {
+      "pos": [
+        8,
+        0,
+        2
+      ],
+      "block": "minecraft:polished_blackstone_bricks"
+    },
+    {
+      "pos": [
+        8,
+        0,
+        3
+      ],
+      "block": "minecraft:polished_blackstone_bricks"
+    },
+    {
+      "pos": [
+        8,
+        0,
+        4
+      ],
+      "block": "minecraft:polished_blackstone_bricks"
+    },
+    {
+      "pos": [
+        8,
+        0,
+        5
+      ],
+      "block": "minecraft:polished_blackstone_bricks"
+    },
+    {
+      "pos": [
+        8,
+        0,
+        6
+      ],
+      "block": "minecraft:polished_blackstone_bricks"
+    },
+    {
+      "pos": [
+        8,
+        0,
+        7
+      ],
+      "block": "minecraft:polished_blackstone_bricks"
+    },
+    {
+      "pos": [
+        8,
+        0,
+        8
+      ],
+      "block": "minecraft:polished_blackstone_bricks"
+    },
+    {
+      "pos": [
+        8,
+        0,
+        9
+      ],
+      "block": "minecraft:polished_blackstone_bricks"
+    },
+    {
+      "pos": [
+        8,
+        0,
+        10
+      ],
+      "block": "minecraft:polished_blackstone_bricks"
+    },
+    {
+      "pos": [
+        9,
+        0,
+        0
+      ],
+      "block": "minecraft:polished_blackstone_bricks"
+    },
+    {
+      "pos": [
+        9,
+        0,
+        1
+      ],
+      "block": "minecraft:polished_blackstone_bricks"
+    },
+    {
+      "pos": [
+        9,
+        0,
+        2
+      ],
+      "block": "minecraft:polished_blackstone_bricks"
+    },
+    {
+      "pos": [
+        9,
+        0,
+        3
+      ],
+      "block": "minecraft:polished_blackstone_bricks"
+    },
+    {
+      "pos": [
+        9,
+        0,
+        4
+      ],
+      "block": "minecraft:polished_blackstone_bricks"
+    },
+    {
+      "pos": [
+        9,
+        0,
+        5
+      ],
+      "block": "minecraft:polished_blackstone_bricks"
+    },
+    {
+      "pos": [
+        9,
+        0,
+        6
+      ],
+      "block": "minecraft:polished_blackstone_bricks"
+    },
+    {
+      "pos": [
+        9,
+        0,
+        7
+      ],
+      "block": "minecraft:polished_blackstone_bricks"
+    },
+    {
+      "pos": [
+        9,
+        0,
+        8
+      ],
+      "block": "minecraft:polished_blackstone_bricks"
+    },
+    {
+      "pos": [
+        9,
+        0,
+        9
+      ],
+      "block": "minecraft:polished_blackstone_bricks"
+    },
+    {
+      "pos": [
+        9,
+        0,
+        10
+      ],
+      "block": "minecraft:polished_blackstone_bricks"
+    },
+    {
+      "pos": [
+        9,
+        1,
+        1
+      ],
+      "block": "minecraft:basalt"
+    },
+    {
+      "pos": [
+        9,
+        1,
+        9
+      ],
+      "block": "minecraft:basalt"
+    },
+    {
+      "pos": [
+        9,
+        2,
+        1
+      ],
+      "block": "minecraft:basalt"
+    },
+    {
+      "pos": [
+        9,
+        2,
+        9
+      ],
+      "block": "minecraft:basalt"
+    },
+    {
+      "pos": [
+        9,
+        3,
+        1
+      ],
+      "block": "minecraft:basalt"
+    },
+    {
+      "pos": [
+        9,
+        3,
+        9
+      ],
+      "block": "minecraft:basalt"
+    },
+    {
+      "pos": [
+        9,
+        4,
+        1
+      ],
+      "block": "minecraft:basalt"
+    },
+    {
+      "pos": [
+        9,
+        4,
+        9
+      ],
+      "block": "minecraft:basalt"
+    },
+    {
+      "pos": [
+        9,
+        5,
+        1
+      ],
+      "block": "minecraft:basalt"
+    },
+    {
+      "pos": [
+        9,
+        5,
+        9
+      ],
+      "block": "minecraft:basalt"
+    },
+    {
+      "pos": [
+        9,
+        6,
+        1
+      ],
+      "block": "minecraft:glowstone"
+    },
+    {
+      "pos": [
+        9,
+        6,
+        9
+      ],
+      "block": "minecraft:glowstone"
+    },
+    {
+      "pos": [
+        10,
+        0,
+        0
+      ],
+      "block": "minecraft:polished_blackstone_bricks"
+    },
+    {
+      "pos": [
+        10,
+        0,
+        1
+      ],
+      "block": "minecraft:polished_blackstone_bricks"
+    },
+    {
+      "pos": [
+        10,
+        0,
+        2
+      ],
+      "block": "minecraft:polished_blackstone_bricks"
+    },
+    {
+      "pos": [
+        10,
+        0,
+        3
+      ],
+      "block": "minecraft:polished_blackstone_bricks"
+    },
+    {
+      "pos": [
+        10,
+        0,
+        4
+      ],
+      "block": "minecraft:polished_blackstone_bricks"
+    },
+    {
+      "pos": [
+        10,
+        0,
+        5
+      ],
+      "block": "minecraft:polished_blackstone_bricks"
+    },
+    {
+      "pos": [
+        10,
+        0,
+        6
+      ],
+      "block": "minecraft:polished_blackstone_bricks"
+    },
+    {
+      "pos": [
+        10,
+        0,
+        7
+      ],
+      "block": "minecraft:polished_blackstone_bricks"
+    },
+    {
+      "pos": [
+        10,
+        0,
+        8
+      ],
+      "block": "minecraft:polished_blackstone_bricks"
+    },
+    {
+      "pos": [
+        10,
+        0,
+        9
+      ],
+      "block": "minecraft:polished_blackstone_bricks"
+    },
+    {
+      "pos": [
+        10,
+        0,
+        10
+      ],
+      "block": "minecraft:polished_blackstone_bricks"
+    }
+  ]
+}

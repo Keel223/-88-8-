@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    " A ",
+    " D ",
+    " S "
+  ],
+  "key": {
+    "A": "minecraft:feather",
+    "D": "minecraft:diamond",
+    "S": "minecraft:stick"
+  },
+  "result": {
+    "id": "legendary_frontiers:sky_splitter",
+    "count": 1
+  }
+}
