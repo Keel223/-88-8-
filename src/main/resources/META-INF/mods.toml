@@ -10,7 +10,7 @@ description="Early source prototype: four ability swords, one basic bow, and thr
 [[dependencies.legendary_frontiers]]
 modId="forge"
 mandatory=true
-versionRange="[66.0.9,67)"
+versionRange="[66.0.2,67)"
 ordering="NONE"
 side="BOTH"
 [[dependencies.legendary_frontiers]]
